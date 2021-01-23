@@ -3,13 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package navitec1;
 
 /**
  *
- * @author Maria Laura
+ * @author Gustavo
  */
-public class CRUD_CATEGORY {
-    public static void categories(){
-       System.out.println('h'); 
+public class toysCrud {
+    public static void toys (){
+        System.out.println("toys");
     }
+    
 }

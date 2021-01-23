@@ -10,7 +10,9 @@
  */
 public class CRUD_KID {
     
-  System.out.println('h');
+  public static void kids (){
+      System.out.println('h');
+  }
     
 }
     
