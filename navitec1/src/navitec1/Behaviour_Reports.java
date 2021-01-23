@@ -10,5 +10,7 @@ package navitec1;
  * @author Maria Laura
  */
 public class Behaviour_Reports {
-      System.out.println("behaviour reports");
+      public static void behaviours(){
+          System.out.println("behaviours reports");
+      }
 };
