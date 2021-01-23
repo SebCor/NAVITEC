@@ -10,7 +10,9 @@ package navitec1;
  * @author Maria Laura
  */
 public class Kids_by_Country_reports {
-     System.out.println('behaviour reports');
-
+     
+     public void from_specialOrder_to_Toys(){
+         System.out.println("behaviour reports");
+     }
     
 }

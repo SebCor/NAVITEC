@@ -10,7 +10,10 @@ package navitec1;
  * @author Maria Laura
  */
 public class From_SpecialOrder_to_Toys {
-     System.out.println('The toy  is now in the table Toys');
+    
+     public void from_specialOrder_to_Toys(){
+         System.out.println("The toy  is now in the table Toys");
+     }
 
     
 }
